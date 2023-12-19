@@ -40,6 +40,7 @@ var x = 10;
 
 function bar (funArg) {
     var x = 30;
+    x = 50
     console.log("bar",x)
     //funArg();
 }
@@ -58,6 +59,11 @@ console.log(x)
 
 
 console.log('------------------------');
+console.log('------------------------');
+console.log('------------------------');
+console.log('------------------------');
+console.log('------------------------');
+
 
 
 const map = new Map();
